@@ -2,7 +2,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(/images/mainPage.jpeg);
+    background-image: url(https://i.ibb.co/qp9P017/tg-image-3562270924.jpg);
     background-position: center;
     background-size: contain;
     background-repeat:no-repeat;
@@ -23,13 +23,13 @@
     top: 7.5px;
     width: 75px;
     height: 34px;
-    background-image: url(/images/Screenshot_778.png);
+    background-image: url(https://i.ibb.co/GpXrLWV/Screenshot-778.png);
     background-size: contain;
 }
 .buttonBg:hover{
     background-color: gray;
     color: white;
-    background-image: url(/images/Screenshot_779.png);
+    background-image: url(https://i.ibb.co/WnQZ73T/Screenshot-779.png);
 }
 .button:after{
     text-decoration: none;
@@ -39,7 +39,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(/images/loginPage.jpeg);
+    background-image: url(https://i.ibb.co/2n4L7GG/tg-image-3019048557.jpg);
     background-position: center;
     background-size: contain;
     background-repeat:no-repeat;
